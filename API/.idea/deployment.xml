@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="labagh" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="labagh">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/public_html/API" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
